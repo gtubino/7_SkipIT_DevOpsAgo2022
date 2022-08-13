@@ -1,2 +1,6 @@
-Referente: Gustavo Tubino
-commit 1
+Grupo 7 "SkipIT"
+
+-Lucas Silvera
+-Eduardo Alvarez
+-Gustavo Tubino (referente)
+
