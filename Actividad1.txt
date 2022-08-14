@@ -1,7 +1,7 @@
 Grupo 7 "SkipIT"
 
--Lucas Silvera
--Eduardo Alvarez
+-Lucas Silvera was here
+-Eduardo Alvarez paso por aqui
 -Gustavo Tubino (referente)
 Commit1
 Commit2
